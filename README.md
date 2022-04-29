@@ -1,6 +1,6 @@
 # EMQ X HTTP API Hyperf版
 
-EMQ X 管理组件资源开放接口 Hyperf版
+EMQ X 管理组件资源开放接口 Hyperf版,组件基于https://github.com/kainonly/emqx-management-api.git修改而来
 
 ## 安装
 
