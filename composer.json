@@ -1,5 +1,5 @@
 {
-  "name": "hyperf/emqx-api",
+  "name": "xyzj91/emqx-api",
   "description": "EMQX Management HTTP API",
   "require": {
     "php": ">=7.4",
